@@ -1,9 +1,8 @@
-
-**Word Game - Collect and Explore Tom's and Jerry's Apartment**
+**Word Game - Assemble the Mouse Trap and Catch Jerry**
 
 Welcome to a word-based adventure game where you command and discover. Begin your journey in the iconic setting of Tom and Jerry's living room.
 
-**Objective**: Collect all the items scattered throughout the house. There are three rooms to explore: the Living Room, Kitchen, and Garage. Each room presents unique challenges and opportunities.
+**Objective**: Your mission is to assemble a mouse trap to catch Jerry. To do this, you'll need to collect all the items scattered throughout the house. There are three rooms to explore: the Living Room, Kitchen, and Garage. Each room presents unique challenges and opportunities.
 
 **Available Commands**:
 - `look`: Get a description of the room or an item.
@@ -16,5 +15,7 @@ Welcome to a word-based adventure game where you command and discover. Begin you
 1. **Dog Treats**: These tasty treats are a must for your journey.
 2. **Slice of Cheese**: A tempting morsel that might come in handy.
 3. **Mouse-Trap**: Handle with care! You never know when it might be useful.
+
+**Objective**: Assemble the mouse trap by obtaining both the mouse trap and a slice of cheese. Only then will you have a chance to catch Jerry.
 
 Enjoy your adventure in the world of Tom and Jerry!
